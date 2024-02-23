@@ -28,6 +28,7 @@ public class Main {
         System.out.println("Total number of deadlines: (using stream) "
                 + countDeadlines(tasksData));
 
+        
 
         System.out.println("Printing deadlines ... (After sorting)");
         printDeadlinesUsingStream(tasksData);
